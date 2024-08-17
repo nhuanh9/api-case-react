@@ -1,0 +1,11 @@
+1. User: (Tham khảo adidas, converse, …)
+- Đăng ký, Đăng nhập
+- Trang chủ:Xem danh Sách(Hiện 1 ảnh và tên),
+- Xem chi tiết sản phẩm (Xem nhiều ảnh, tên, giá)
+- Tìm kiếm theo tên, theo thể loại
+- Tạo giỏ hàng, thêm sản phẩm vào giỏ hàng (cập nhật số lượng )
+2. Admin (Bootstrap template, admin)
+- Đăng nhập: admin, admin
+- CRUD sản phẩm
+- CRUD thể loại
+- Xem danh sách giỏ hàng
